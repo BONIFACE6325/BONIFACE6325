@@ -1,9 +1,9 @@
 # 🌍 BONIFACE GWAKILA 🇹🇿
-### Backend-Focused Full-Stack Engineer | System Architect | FinTech Builder
+## Software Engineer | AI & Machine Learning Engineer | Full-Stack Architect
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+System+Engineer;Vue.js+%7C+Node.js+Specialist;Spring+Boot+%26+Laravel+Developer;Building+Secure+Payment+Systems;Tanzanian+Tech+Innovator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full-Stack+Architect;Vue+%7C+React+%7C+Flutter+Developer;.NET+%7C+Spring+Boot+%7C+FastAPI+Specialist;Building+Scalable+FinTech+Systems;Tanzanian+Tech+Innovator)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BONIFACE6325)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boniface@example.com)
@@ -13,47 +13,70 @@
 
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
-I am **Boniface Gwakila**, a passionate Tanzanian 🇹🇿 Software Engineer focused on backend Development, Machine Learning, Artificial Intelligence, secure API development, and full-stack system architecture.
+I am **Boniface Gwakila**, a Software Engineer from Tanzania 🇹🇿 specializing in:
 
-I build practical, production-oriented systems with emphasis on:
+- Artificial Intelligence & Machine Learning
+- Full-Stack Web Development
+- Backend System Architecture
+- FinTech & Payment Systems
+- Mobile Application Development
 
-- Clean Architecture
-- Secure Authentication & Authorization
-- RESTful API Design
-- Database Modeling & Normalization
-- Mobile Money & Payment Integration
-- Scalable Backend Systems
+I design and build scalable, secure, and production-ready systems that solve real-world problems across finance, education, and enterprise domains.
 
 ---
 
 # 🧠 Engineering Philosophy
 
-> Structure before code.  
-> Security before deployment.  
-> Simplicity over unnecessary complexity.  
-> Systems built for real-world impact.
+> Build systems, not just applications.  
+> Design for scalability.  
+> Secure by default.  
+> Write clean, maintainable code.  
 
-I design backend-driven applications that are maintainable, scalable, and aligned with software engineering best practices.
+I focus on long-term maintainability, modular architecture, and industry-level software engineering practices.
 
 ---
 
-# 🛠️ Technology Stack
+# 🤖 Artificial Intelligence & Machine Learning
 
-## 💻 Frontend
+- Machine Learning Model Development
+- Data Analysis & Predictive Modeling
+- Financial Data Modeling
+- API Deployment for ML Models
+- AI-powered System Design
+
+Applied in:
+- 📈 Tanzania Capital Market Analysis System
+- 📊 Data-driven financial analytics tools
+
+---
+
+# 🌐 Full-Stack Development
+
+## 💻 Frontend Technologies
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
+
+## 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+Android Native Development
 
 ---
 
@@ -63,40 +86,35 @@ I design backend-driven applications that are maintainable, scalable, and aligne
 
 ---
 
-## 🛠 Tools & Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+# 🚀 Major Systems Developed
 
----
+### 📈 Tanzania Capital Market Analysis System
+AI-powered system designed for financial market data analysis, prediction, and visualization.
 
-# 🚀 Highlight Projects
+### 💳 Mobile Payment Integration Library
+Backend abstraction layer for integrating Tanzanian mobile money providers into applications securely and efficiently.
+
+### 🎓 Vocational College Management System
+Full-stack academic management system with:
+- Student registration
+- Fee management
+- Role-based authentication
+- Academic reporting
 
 ### 🏥 Pediatric Clinic Management System
-Full-stack system built using Vue.js + Express + MongoDB  
-Includes CRUD operations, API integration, and structured backend logic.
-
-### 💳 Unified Mobile Money Payment SDK
-Backend abstraction layer for Tanzanian mobile money providers.  
-Handles token management, request validation, normalization, and provider adapters.
-
-### 🔐 Role-Based Authentication System
-Custom authentication and authorization implementation with multiple user roles using Laravel and Spring Boot.
-
-### 📊 Analytics Dashboard
-Backend-driven analytics dashboard built with Spring Boot & Thymeleaf.
+Backend-focused medical management system built using modern REST architecture.
 
 ---
 
-# 📚 Academic & Technical Focus
+# 🏗 Core Engineering Competencies
 
-- Software Requirements Documentation (SRS)
-- System Design Documents (SDD)
-- UML Modeling
-- Database Normalization (1NF → 3NF)
-- RESTful Architecture
-- Secure Financial Systems
+- RESTful API Design
+- Role-Based Access Control (RBAC)
+- Secure Payment Integration
+- Database Normalization & Design
+- System Documentation (SRS, SDD, UML)
+- Clean Architecture & Modular Systems
+- Authentication & Authorization Systems
 
 ---
 
@@ -105,7 +123,7 @@ Backend-driven analytics dashboard built with Spring Boot & Thymeleaf.
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BONIFACE6325&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BONIFACE6325&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BONIFACE6325&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -117,24 +135,24 @@ Backend-driven analytics dashboard built with Spring Boot & Thymeleaf.
 
 ---
 
-# 🌍 Mission
+# 🌍 Vision
 
-To build secure, scalable, and impactful backend systems that contribute to the growth of technology in Tanzania and across Africa.
+To build scalable, AI-driven, and financially secure systems that contribute to Africa’s digital transformation while competing at global engineering standards.
 
 ---
 
-# 🎯 2026 Vision
+# 🎯 Strategic Goals
 
-- Master Backend Architecture
+- Advance in AI Engineering & Model Deployment
+- Build Enterprise-Level FinTech Systems
 - Contribute to Open Source
-- Build Production-Ready FinTech Systems
-- Advance in Distributed Systems & Cloud Deployment
-- Become a Highly Skilled Software Engineer
+- Deploy Scalable Cloud Architectures
+- Grow into a Senior / Lead Software Engineer
 
 ---
 
 <div align="center">
 
-⭐ If you like my work, feel free to explore my repositories!
+⭐ Engineering scalable solutions from Tanzania to the world.
 
 </div>
