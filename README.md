@@ -15,7 +15,7 @@
 
 # 👋 About Me
 
-I am **Boniface Gwakila**, a passionate Tanzanian 🇹🇿 Software Developer focused on backend engineering, secure API development, and full-stack system architecture.
+I am **Boniface Gwakila**, a passionate Tanzanian 🇹🇿 Software Engineer focused on backend Development, Machine Learning, Artificial Intelligence, secure API development, and full-stack system architecture.
 
 I build practical, production-oriented systems with emphasis on:
 
