@@ -6,7 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full-Stack+Architect;Vue+%7C+React+%7C+Flutter+Developer;.NET+%7C+Spring+Boot+%7C+FastAPI+Specialist;Building+Scalable+FinTech+Systems;Tanzanian+Tech+Innovator)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BONIFACE6325)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boniface@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gwakilabonface@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=BONIFACE6325&style=for-the-badge&color=blueviolet)](https://github.com/BONIFACE6325)
 
 </div>
